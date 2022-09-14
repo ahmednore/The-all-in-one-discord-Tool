@@ -1,5 +1,7 @@
-
 # About The Project
+
+![App Screenshot](https://cdn.discordapp.com/attachments/945841738147307600/1019445663735500860/unknown.png)
+
 
 The tool has all the features you need to run and raid a discord server
 
@@ -13,6 +15,8 @@ The tool has all the features you need to run and raid a discord server
 8. Webhook Checker
 9. Webhook Spammer
 10. Webhook Deleter
+
+
 
 
 
