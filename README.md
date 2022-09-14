@@ -17,8 +17,8 @@ The tool has all the features you need to run and raid a discord server
 10. Webhook Deleter
 
 
-
-
+## Download
+[Here](https://mega.nz/folder/rKIVWTaR#ys697J7ObZu39XYZ6H337A)
 
 ## Upcomming Features
 
